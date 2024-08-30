@@ -1,0 +1,49 @@
+body {
+    font-family: "Arial", sans-serif;
+  }
+  
+  h1,
+  h2,
+  h5 {
+    font-weight: bold;
+  }
+  
+  #about p,
+  #education p {
+    font-size: 1.1rem;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .list-inline-item {
+    margin: 5px 15px 5px 0;
+    font-size: 1.2rem;
+  }
+  
+  .list-inline-item i {
+    margin-right: 5px;
+  }
+  
+  .list-inline-item a {
+    text-decoration: none;
+  }
+  
+  .list-inline-item a:hover i {
+    opacity: 0.8;
+  }
+  
+  #contact .d-flex ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
